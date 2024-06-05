@@ -6,7 +6,6 @@ composer install - se clonar o projeto
 
 getall - devolve a lista com os cadastros
 make - cria conexão
-hp
 
 https://github.com/j-a-matioli/sisfin-php/tree/Versao2.1
 
