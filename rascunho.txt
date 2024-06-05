@@ -1,0 +1,18 @@
+composer install - se clonar o projeto
+
+-> fornecedor
+-> classe completa
+-> cadastro, alteração e exclusão de fornecedores
+
+getall - devolve a lista com os cadastros
+make - cria conexão
+hp
+
+https://github.com/j-a-matioli/sisfin-php/tree/Versao2.1
+
+include>config.php - alterar dados do bd
+
+git add .
+git commit -m "Inserindo classe Fornecedor"
+git remote add origin https://github.com/feltri/Projeto-PHP
+git push origin master

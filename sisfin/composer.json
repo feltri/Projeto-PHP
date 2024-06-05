@@ -1,0 +1,20 @@
+{
+    "name": "matioli/sisfin",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Sisfin\\": "src/"
+        },
+        "files": ["src/include/config.php"]
+    },
+    "authors": [
+        {
+            "name": "Prof. Matioli"
+        }
+    ],
+    "require": {
+        "components/jquery": "^3.2",
+        "twbs/bootstrap": "4.0.0",
+        "fortawesome/font-awesome": "^6.5"
+    }
+}
